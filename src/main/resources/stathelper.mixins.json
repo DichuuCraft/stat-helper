@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.hadroncfy.stathelper.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+      "MixinServerWorld"
+    ],
+    "client": [
+    ],
+    "server": [
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+}
